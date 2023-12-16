@@ -45,7 +45,9 @@ bg_color="#f59c4f"
 win_symbol_color=$bg_color
 # win_symbol_color="yellow"
 
-win_symbol=""
+# win_symbol=""
+win_symbol=""
+# win_symbol=""
 # win_symbol=" "
 # win_symbol=" "
 # win_symbol=""
