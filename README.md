@@ -20,6 +20,6 @@ Improvements:
 - Windows has custom seven-segmented display number style
 - Better terminal icons
 
-![Snap](snaps/karak.png)
+![Snap](snaps/karak.jpg)
 
 
