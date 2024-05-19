@@ -7,6 +7,20 @@ A clean, dark Tmux theme that gives a tribute to district [Karak.](https://www.f
 In your `tmux.conf`:
 ```
 set -g @plugin "aamir-sultan/karak-tmux"
+# set -g @theme_variation 'edge-dark'
+# set -g @theme_variation 'edge-light'
+set -g @theme_variation 'everforest-dark'
+# set -g @theme_variation 'everforest-light'
+# set -g @theme_variation 'gruvbox-material-dark'
+# set -g @theme_variation 'gruvbox-material-light'
+# set -g @theme_variation 'gruvbox-mix-dark'
+# set -g @theme_variation 'soft-era'
+# set -g @theme_variation 'sonokai'
+# set -g @theme_variation 'sonokai-andromeda'
+# set -g @theme_variation 'sonokai-atlantis'
+# set -g @theme_variation 'sonokai-espresso'
+# set -g @theme_variation 'sonokai-maia'
+# set -g @theme_variation 'sonokai-shusia'
 ```
 
 ### Karak Night Theme
